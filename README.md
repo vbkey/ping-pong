@@ -1,4 +1,4 @@
 # ping-pong
 Два челика играют в пинг-понг
-mjkhkjhlkhkjhk
+
 
